@@ -11,6 +11,9 @@ Follow Along
 You can follow along with me as I post my thoughts, work, and notes here:
 
 📓 My gitbook for notes
+
 📃 My github repo for code
+
 👤 My Linkedin for weekly posts
+
 📝 My blog shared on bluesky for daily posts
