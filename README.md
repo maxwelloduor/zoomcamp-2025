@@ -2,7 +2,7 @@
 
 ## Summary
 
-Working through the course material and homework problems from 
+Working through the course material and homework problems from [data engineering zoomcamp cohort 2025](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main) for more information.
 
 Dates Jan 13 2025 through March 2025
 
